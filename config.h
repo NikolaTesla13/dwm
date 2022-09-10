@@ -19,8 +19,8 @@ static int topbar             = 1;        /* 0 means bottom bar */
 static char *fonts[]          = { "monospace:size=10", "NotoColorEmoji:pixelsize=10:antialias=true:autohint=true"  };
 static char normbgcolor[]           = "#8aadf4"; // Blue
 static char normbordercolor[]       = "#363a4f"; // Surface0
-static char normfgcolor[]           = "#b8c0e0"; // Subtext1
-static char selfgcolor[]            = "#cad3f5"; // Text
+static char normfgcolor[]           = "#1e2030"; // Mantle
+static char selfgcolor[]            = "#1e2030"; // Mantle
 static char selbordercolor[]        = "#6e738d"; // Overlay0
 static char selbgcolor[]            = "#24273a"; // Base
 static char *colors[][3] = {
