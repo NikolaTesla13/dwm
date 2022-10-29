@@ -1,4 +1,4 @@
-# Luke and Stephan's build of dwm
+# Luke and Stefan's build of dwm
 
 ## FAQ
 
